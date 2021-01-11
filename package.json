@@ -1,5 +1,5 @@
 {
-  "name": "js-bladefish",
+  "name": "bladefish-js",
   "version": "1.0.0",
   "description": "Blade style template engine for node",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/robertadamsonsmith/js-bladefish.git"
+    "url": "git+https://github.com/robertadamsonsmith/bladefish-js.git"
   },
   "author": "Rob Smith",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/robertadamsonsmith/js-bladefish/issues"
+    "url": "https://github.com/robertadamsonsmith/bladefish-js/issues"
   },
-  "homepage": "https://github.com/robertadamsonsmith/js-bladefish#readme"
+  "homepage": "https://github.com/robertadamsonsmith/bladefish-js#readme"
 }
