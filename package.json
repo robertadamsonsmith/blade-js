@@ -1,0 +1,19 @@
+{
+  "name": "js-blade",
+  "version": "1.0.0",
+  "description": "Blade style template engine for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertadamsonsmith/js-blade.git"
+  },
+  "author": "Rob Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertadamsonsmith/js-blade/issues"
+  },
+  "homepage": "https://github.com/robertadamsonsmith/js-blade#readme"
+}
